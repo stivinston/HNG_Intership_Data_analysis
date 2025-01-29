@@ -9,7 +9,9 @@ Each task in this repository starts from the basics and progressively builds up 
  
 ### 📌 Task 0 : Data Exploration and Technical Communication
 **Description :**
-You are provided with the below datasets to review. Your task is to examine the dataset, identify initial insights at first glance, and write a brief technical report detailing your observations.
+You are provided with the below datasets to review. Your task is to examine the dataset, identify initial insights at first glance, and write a brief technical report detailing your observations. <br>
+
 **Objective:**
-Introduce interns to exploratory data analysis and effective technical reporting.
+Introduce interns to exploratory data analysis and effective technical reporting. <br>
+
 **Form closes Fri, Jan 31st 11:59pm**
